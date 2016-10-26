@@ -141,6 +141,20 @@ do.
 
 > **G.E.P. Box**
 
+If you read Bayesian polemics from the 1970s and 1980s—including my own—it's
+usually arrogant and even insulting. Some of the terms were excessively
+pointed. For example, Bayesians identified which frequentist methods were
+"incoherent", or more accurately, lamented that none seemed to be coherent. On
+the other hand, Bayesians were accused of being "biased". The rhetoric was not
+all that different from that of the Fisher/Pearson duels. But we Bayesians
+have stopped saying derogatory things, partly because we have changed and
+partly because frequentists have been listening. When you're walking beside
+someone you tend to be cordial; when you're trying to catch up to tell them
+something and they are ignoring what you say, you sometimes yell.
+
+> **Don Berry**, Celebrating 70: An Interview with Don Berry. 
+Dalene Stangl, Lurdes Y. T. Inoue and Telba Z. Irony. *Statistical Science*.
+2012, Vol. 27, No. 1, 144–159. DOI: 10.1214/11-STS366.
 
 ## Bootstrap
 
